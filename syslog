@@ -1,0 +1,128 @@
+Sep  7 17:33:23 10.10.10.1 %ASA-6-113012: AAA user authentication Successful : local database : user = cisco
+Sep  7 17:33:23 10.10.10.1 %ASA-6-113008: AAA transaction status ACCEPT : user = cisco
+Sep  7 17:33:23 10.10.10.1 %ASA-6-113012: AAA user authentication Successful : local database : user = cisco
+Sep  7 17:33:23 10.10.10.1 %ASA-6-113008: AAA transaction status ACCEPT : user = cisco
+Sep  7 17:33:23 10.10.10.1 %ASA-6-113012: AAA user authentication Successful : local database : user = cisco
+Sep  7 17:33:23 10.10.10.1 %ASA-6-113008: AAA transaction status ACCEPT : user = cisco
+Sep  7 17:33:23 10.10.10.1 %ASA-6-113012: AAA user authentication Successful : local database : user = cisco
+Sep  7 17:33:23 10.10.10.1 %ASA-6-113008: AAA transaction status ACCEPT : user = cisco
+Sep  7 17:33:23 10.10.10.1 %ASA-7-111009: User 'cisco' executed cmd: show version
+Sep  7 17:33:23 10.10.10.1 %ASA-6-113012: AAA user authentication Successful : local database : user = cisco
+Sep  7 17:33:23 10.10.10.1 %ASA-6-113008: AAA transaction status ACCEPT : user = cisco
+Sep  7 17:33:23 10.10.10.1 %ASA-7-111009: User 'cisco' executed cmd: show vpn-sessiondb license-summary
+Sep  7 17:33:23 10.10.10.1 %ASA-6-113012: AAA user authentication Successful : local database : user = cisco
+Sep  7 17:33:23 10.10.10.1 %ASA-6-113008: AAA transaction status ACCEPT : user = cisco
+Sep  7 17:33:23 10.10.10.1 %ASA-7-111009: User 'cisco' executed cmd: show running-config aaa authorization
+Sep  7 17:33:23 10.10.10.1 %ASA-6-113012: AAA user authentication Successful : local database : user = cisco
+Sep  7 17:33:23 10.10.10.1 %ASA-6-113008: AAA transaction status ACCEPT : user = cisco
+Sep  7 17:33:23 10.10.10.1 %ASA-7-111009: User 'cisco' executed cmd: show running-config
+Sep  7 17:33:23 10.10.10.1 %ASA-7-111009: User 'cisco' executed cmd: show running-config
+Sep  7 17:33:23 10.10.10.1 %ASA-7-111009: User 'cisco' executed cmd: show running-config route
+Sep  7 17:33:23 10.10.10.1 %ASA-7-111009: User 'cisco' executed cmd: show running-config interface
+Sep  7 17:33:23 10.10.10.1 %ASA-7-111009: User 'cisco' executed cmd: show running-config track
+Sep  7 17:33:23 10.10.10.1 %ASA-7-111009: User 'cisco' executed cmd: show running-config sla monitor
+Sep  7 17:33:23 10.10.10.1 %ASA-7-111009: User 'cisco' executed cmd: show running-config threat-detection
+Sep  7 17:33:23 10.10.10.1 %ASA-7-111009: User 'cisco' executed cmd: show running-config dynamic-filter
+Sep  7 17:33:23 10.10.10.1 %ASA-6-113012: AAA user authentication Successful : local database : user = cisco
+Sep  7 17:33:23 10.10.10.1 %ASA-6-113008: AAA transaction status ACCEPT : user = cisco
+Sep  7 17:33:23 10.10.10.1 %ASA-7-111009: User 'cisco' executed cmd: show service-policy user-statistics
+Sep  7 17:33:23 10.10.10.1 %ASA-6-113012: AAA user authentication Successful : local database : user = cisco
+Sep  7 17:33:23 10.10.10.1 %ASA-6-113008: AAA transaction status ACCEPT : user = cisco
+Sep  7 17:33:23 10.10.10.1 %ASA-7-111009: User 'cisco' executed cmd: show curpriv
+Sep  7 17:33:23 10.10.10.1 %ASA-6-113012: AAA user authentication Successful : local database : user = cisco
+Sep  7 17:33:23 10.10.10.1 %ASA-6-113008: AAA transaction status ACCEPT : user = cisco
+Sep  7 17:33:23 10.10.10.1 %ASA-7-111009: User 'cisco' executed cmd: show curpriv
+Sep  7 17:33:24 10.10.10.1 %ASA-6-113012: AAA user authentication Successful : local database : user = cisco
+Sep  7 17:33:24 10.10.10.1 %ASA-6-113008: AAA transaction status ACCEPT : user = cisco
+Sep  7 17:33:24 10.10.10.1 %ASA-7-111009: User 'cisco' executed cmd: show running-config all
+Sep  7 17:33:24 10.10.10.1 %ASA-7-111009: User 'cisco' executed cmd: show running-config all regex
+Sep  7 17:33:24 10.10.10.1 %ASA-7-111009: User 'cisco' executed cmd: show running-config all class-map
+Sep  7 17:33:24 10.10.10.1 %ASA-7-111009: User 'cisco' executed cmd: show running-config all ssl
+Sep  7 17:33:24 10.10.10.1 %ASA-6-113012: AAA user authentication Successful : local database : user = cisco
+Sep  7 17:33:24 10.10.10.1 %ASA-6-113008: AAA transaction status ACCEPT : user = cisco
+Sep  7 17:33:24 10.10.10.1 %ASA-7-111009: User 'cisco' executed cmd: show running-config aaa authorization
+Sep  7 17:33:24 10.10.10.1 %ASA-6-113012: AAA user authentication Successful : local database : user = cisco
+Sep  7 17:33:24 10.10.10.1 %ASA-6-113008: AAA transaction status ACCEPT : user = cisco
+Sep  7 17:33:25 10.10.10.1 %ASA-6-113012: AAA user authentication Successful : local database : user = cisco
+Sep  7 17:33:25 10.10.10.1 %ASA-6-113008: AAA transaction status ACCEPT : user = cisco
+Sep  7 17:33:25 10.10.10.1 %ASA-6-113012: AAA user authentication Successful : local database : user = cisco
+Sep  7 17:33:25 10.10.10.1 %ASA-6-113008: AAA transaction status ACCEPT : user = cisco
+Sep  7 17:33:25 10.10.10.1 %ASA-6-113012: AAA user authentication Successful : local database : user = cisco
+Sep  7 17:33:25 10.10.10.1 %ASA-6-113008: AAA transaction status ACCEPT : user = cisco
+Sep  7 17:33:25 10.10.10.1 %ASA-6-113012: AAA user authentication Successful : local database : user = cisco
+Sep  7 17:33:25 10.10.10.1 %ASA-6-113008: AAA transaction status ACCEPT : user = cisco
+Sep  7 17:33:25 10.10.10.1 %ASA-7-111009: User 'cisco' executed cmd: show jumbo-frame reservation
+Sep  7 17:34:19 10.10.10.1 %ASA-6-113012: AAA user authentication Successful : local database : user = cisco
+Sep  7 17:34:19 10.10.10.1 %ASA-6-113008: AAA transaction status ACCEPT : user = cisco
+Sep  7 17:34:19 10.10.10.1 %ASA-6-113012: AAA user authentication Successful : local database : user = cisco
+Sep  7 17:34:19 10.10.10.1 %ASA-6-113008: AAA transaction status ACCEPT : user = cisco
+Sep  7 17:34:19 10.10.10.1 %ASA-6-113012: AAA user authentication Successful : local database : user = cisco
+Sep  7 17:34:19 10.10.10.1 %ASA-6-113008: AAA transaction status ACCEPT : user = cisco
+Sep  7 17:34:19 10.10.10.1 %ASA-6-113012: AAA user authentication Successful : local database : user = cisco
+Sep  7 17:34:19 10.10.10.1 %ASA-6-113008: AAA transaction status ACCEPT : user = cisco
+Sep  7 17:34:19 10.10.10.1 %ASA-7-111009: User 'cisco' executed cmd: show version
+Sep  7 17:34:20 10.10.10.1 %ASA-6-113012: AAA user authentication Successful : local database : user = cisco
+Sep  7 17:34:20 10.10.10.1 %ASA-6-113008: AAA transaction status ACCEPT : user = cisco
+Sep  7 17:34:20 10.10.10.1 %ASA-7-111009: User 'cisco' executed cmd: show vpn-sessiondb license-summary
+Sep  7 17:34:20 10.10.10.1 %ASA-6-113012: AAA user authentication Successful : local database : user = cisco
+Sep  7 17:34:20 10.10.10.1 %ASA-6-113008: AAA transaction status ACCEPT : user = cisco
+Sep  7 17:34:20 10.10.10.1 %ASA-7-111009: User 'cisco' executed cmd: show running-config aaa authorization
+Sep  7 17:34:20 10.10.10.1 %ASA-6-113012: AAA user authentication Successful : local database : user = cisco
+Sep  7 17:34:20 10.10.10.1 %ASA-6-113008: AAA transaction status ACCEPT : user = cisco
+Sep  7 17:34:20 10.10.10.1 %ASA-7-111009: User 'cisco' executed cmd: show running-config
+Sep  7 17:34:20 10.10.10.1 %ASA-7-111009: User 'cisco' executed cmd: show running-config
+Sep  7 17:34:20 10.10.10.1 %ASA-7-111009: User 'cisco' executed cmd: show running-config route
+Sep  7 17:34:20 10.10.10.1 %ASA-7-111009: User 'cisco' executed cmd: show running-config interface
+Sep  7 17:34:20 10.10.10.1 %ASA-7-111009: User 'cisco' executed cmd: show running-config track
+Sep  7 17:34:20 10.10.10.1 %ASA-7-111009: User 'cisco' executed cmd: show running-config sla monitor
+Sep  7 17:34:20 10.10.10.1 %ASA-7-111009: User 'cisco' executed cmd: show running-config threat-detection
+Sep  7 17:34:20 10.10.10.1 %ASA-7-111009: User 'cisco' executed cmd: show running-config dynamic-filter
+Sep  7 17:34:20 10.10.10.1 %ASA-6-113012: AAA user authentication Successful : local database : user = cisco
+Sep  7 17:34:20 10.10.10.1 %ASA-6-113008: AAA transaction status ACCEPT : user = cisco
+Sep  7 17:34:20 10.10.10.1 %ASA-7-111009: User 'cisco' executed cmd: show service-policy user-statistics
+Sep  7 17:34:20 10.10.10.1 %ASA-6-113012: AAA user authentication Successful : local database : user = cisco
+Sep  7 17:34:20 10.10.10.1 %ASA-6-113008: AAA transaction status ACCEPT : user = cisco
+Sep  7 17:34:20 10.10.10.1 %ASA-7-111009: User 'cisco' executed cmd: show curpriv
+Sep  7 17:34:20 10.10.10.1 %ASA-6-113012: AAA user authentication Successful : local database : user = cisco
+Sep  7 17:34:20 10.10.10.1 %ASA-6-113008: AAA transaction status ACCEPT : user = cisco
+Sep  7 17:34:20 10.10.10.1 %ASA-7-111009: User 'cisco' executed cmd: show curpriv
+Sep  7 17:34:20 10.10.10.1 %ASA-6-113012: AAA user authentication Successful : local database : user = cisco
+Sep  7 17:34:20 10.10.10.1 %ASA-6-113008: AAA transaction status ACCEPT : user = cisco
+Sep  7 17:34:20 10.10.10.1 %ASA-7-111009: User 'cisco' executed cmd: show running-config all
+Sep  7 17:34:20 10.10.10.1 %ASA-7-111009: User 'cisco' executed cmd: show running-config all regex
+Sep  7 17:34:20 10.10.10.1 %ASA-7-111009: User 'cisco' executed cmd: show running-config all class-map
+Sep  7 17:34:20 10.10.10.1 %ASA-7-111009: User 'cisco' executed cmd: show running-config all ssl
+Sep  7 17:34:20 10.10.10.1 %ASA-6-113012: AAA user authentication Successful : local database : user = cisco
+Sep  7 17:34:20 10.10.10.1 %ASA-6-113008: AAA transaction status ACCEPT : user = cisco
+Sep  7 17:34:20 10.10.10.1 %ASA-7-111009: User 'cisco' executed cmd: show running-config aaa authorization
+Sep  7 17:34:20 10.10.10.1 %ASA-6-113012: AAA user authentication Successful : local database : user = cisco
+Sep  7 17:34:20 10.10.10.1 %ASA-6-113008: AAA transaction status ACCEPT : user = cisco
+Sep  7 17:34:21 10.10.10.1 %ASA-6-113012: AAA user authentication Successful : local database : user = cisco
+Sep  7 17:34:21 10.10.10.1 %ASA-6-113008: AAA transaction status ACCEPT : user = cisco
+Sep  7 17:34:21 10.10.10.1 %ASA-6-113012: AAA user authentication Successful : local database : user = cisco
+Sep  7 17:34:21 10.10.10.1 %ASA-6-113008: AAA transaction status ACCEPT : user = cisco
+Sep  7 17:34:21 10.10.10.1 %ASA-6-113012: AAA user authentication Successful : local database : user = cisco
+Sep  7 17:34:21 10.10.10.1 %ASA-6-113008: AAA transaction status ACCEPT : user = cisco
+Sep  7 17:34:22 10.10.10.1 %ASA-6-113012: AAA user authentication Successful : local database : user = cisco
+Sep  7 17:34:22 10.10.10.1 %ASA-6-113008: AAA transaction status ACCEPT : user = cisco
+Sep  7 17:34:22 10.10.10.1 %ASA-7-111009: User 'cisco' executed cmd: show jumbo-frame reservation
+Sep  7 17:36:43 10.10.10.1 %ASA-6-113012: AAA user authentication Successful : local database : user = cisco
+Sep  7 17:36:43 10.10.10.1 %ASA-6-113008: AAA transaction status ACCEPT : user = cisco
+Sep  7 17:36:43 10.10.10.1 %ASA-5-111007: Begin configuration: 10.0.0.1 reading from http [POST]
+Sep  7 17:36:43 10.10.10.1 %ASA-5-111001: Begin configuration: console writing to memory
+Sep  7 17:36:43 10.10.10.1 %ASA-5-111004: console end configuration: OK
+Sep  7 17:36:43 10.10.10.1 %ASA-5-111008: User 'cisco' executed the 'write memory' command.
+Sep  7 17:36:43 10.10.10.1 %ASA-5-111010: User 'cisco', running 'N/A' from IP 10.0.0.1, executed 'write memory'
+Sep  7 17:36:43 10.10.10.1 %ASA-6-113012: AAA user authentication Successful : local database : user = cisco
+Sep  7 17:36:43 10.10.10.1 %ASA-6-113008: AAA transaction status ACCEPT : user = cisco
+Sep  7 17:36:43 10.10.10.1 %ASA-7-111009: User 'cisco' executed cmd: show running-config aaa authorization
+Sep  7 17:36:43 10.10.10.1 %ASA-6-113012: AAA user authentication Successful : local database : user = cisco
+Sep  7 17:36:43 10.10.10.1 %ASA-6-113008: AAA transaction status ACCEPT : user = cisco
+Sep  7 17:36:43 10.10.10.1 %ASA-7-111009: User 'cisco' executed cmd: show running-config
+Sep  7 17:36:43 10.10.10.1 %ASA-7-111009: User 'cisco' executed cmd: show running-config
+Sep  7 17:36:43 10.10.10.1 %ASA-7-111009: User 'cisco' executed cmd: show running-config route
+Sep  7 17:36:43 10.10.10.1 %ASA-7-111009: User 'cisco' executed cmd: show running-config interface
+Sep  7 17:36:43 10.10.10.1 %ASA-7-111009: User 'cisco' executed cmd: show running-config track
+Sep  7 17:36:43 10.10.10.1 %ASA-7-111009: User 'cisco' executed cmd: show running-config sla monitor
+Sep  7 17:36:43 10.10.10.1 %ASA-7-111009: User 'cisco' executed cmd: show running-config threat-detection
+Sep  7 17:36:43 10.10.10.1 %ASA-7-111009: User 'cisco' executed cmd: show running-config dynamic-filter
