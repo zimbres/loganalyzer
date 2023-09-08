@@ -3,6 +3,8 @@ name: Build and Push Image
 on:
   release:
     types: [published]
+  repository_dispatch:
+    types: [manual-trigger]
 
 jobs:
   build:
